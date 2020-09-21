@@ -1,0 +1,13 @@
+/**
+  Exercise #2:
+  
+  Edit the Circle class to have a static variable named "numCircles". This variable should keep track of how many instances of Circle have been created.
+
+  Add a static getter method called getNumCircles that returns this variale.
+
+  Edit Main.java in repl.it to create a few circles and print out the value of Circle.numCircles after each insatnce is created to see that it is getting updated properly.
+
+  Hint:
+  - refer to course notes https://axiom.utm.utoronto.ca/~207/20f/slides/3/instance-static.html#/2
+
+*/
