@@ -1,0 +1,6 @@
+EXERCISE 1
+
+Complete the given Observable.java and Observer.java files as needed to make LightBulbMain work.
+Then run LightBulbMain.java to see the design pattern in action
+		
+You can use references like http://www.oodesign.com/observer-pattern.html as you complete the above two classes
