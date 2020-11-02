@@ -1,0 +1,13 @@
+EXERCISE 3
+
+In GraphicComposite.java:
+
+	// Fix this
+	private ArrayList<?> children = new ArrayList<?>();
+	// Should the type of this list be:
+	// A. GraphicSimple
+	// B. GraphicComposite
+	// C. GraphicComponent
+	// D. None of the Above
+	
+What is the answer to this question? EXPLAIN YOUR ANSWER (no explanation = no grade for this exercise)
