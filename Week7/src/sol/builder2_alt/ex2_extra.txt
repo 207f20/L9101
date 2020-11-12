@@ -1,0 +1,15 @@
+EXERCISE 2
+
+(WARNING: This exercise may make you crave pizza)
+
+2.1 Create a new DeluxePizzaBuilder class which creates a pizza that has extra cheese, extra sauce, pepperoni, pinapple and tomato.
+(use HawaiianPizzaBuilder for reference)
+
+2.2 Finish all the TODOs in ClientMain and run the code to try out your pizza building app
+
+
+2.3
+(for practice and understanding of using builder pattern to preserve attribute immutability):
+Modify Pizza and PizzaChainBuilder to mimic the UserBuilder type of design pattern which makes the attributes immutable. Pizza's attributes are now get-only in the Pizza class: internal state cannot be changed after a Pizza is constructed - i.e. immutability is ensured
+
+The files in builder2_alt are solution for 2.3 above
