@@ -1,0 +1,25 @@
+EXERCISE 1
+
+Note – feel free to comment out parts of the files while you're trying out the code, if necessary.
+
+
+1.1 Run Adding.java and Totalling.java. What are some of your observations?
+
+WRITE YOUR OBSERVATIONS HERE
+
+
+
+1.2 Run ArrayTotal.java. What are your observations?
+
+
+
+
+
+1.3 Run LoopCounter.java. What are your observations?
+
+
+
+
+
+
+1.4 Run Examine.java. What are your observations?

@@ -1,0 +1,20 @@
+EXERCISE 2
+
+You can refer to the course notes and this example from the readings for help for 2.2 and 2.3:
+https://www.youtube.com/watch?v=8afbTaA-gOQ&ab_channel=AbishaliniSivaraman
+
+2.1
+What is 1 (in decimal) represented as in IEEE-754? EXPLAIN YOUR ANSWER, BREAK DOWN YOUR STEPS.
+
+
+
+2.2
+What is 3.5 (in decimal) represented as in IEEE-754? EXPLAIN YOUR ANSWER, BREAK DOWN YOUR STEPS.
+
+
+
+2.3
+What is 3.2 (in decimal) represented as in IEEE-754? EXPLAIN YOUR ANSWER, BREAK DOWN YOUR STEPS.
+
+
+
