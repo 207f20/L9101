@@ -1,0 +1,58 @@
+EXERCISE 2
+
+You can refer to the course notes and this example from the readings for help:
+https://www.youtube.com/watch?v=8afbTaA-gOQ&ab_channel=AbishaliniSivaraman
+
+2.1
+What is 1 (in decimal) represented as in IEEE-754? EXPLAIN YOUR ANSWER, BREAK DOWN YOUR STEPS.
+
+It's a positive number, so sign bit = 0
+
+The number 1 in binary is still just 1.
+And 1 = 1.0 * 2^0
+So the exponent is 0, and with a bias of 127, the exponent is 0+127=127
+In binary, 127 = 01111111, so that's our exponent
+
+In the number "1.0", after the decimal all we have is 0, so we fill up 23 bits with just 0.
+
+FINAL ASNWER:
+0[01111111]00000000000000000000000
+
+2.2
+What is 3.5 (in decimal) represented as in IEEE-754? EXPLAIN YOUR ANSWER, BREAK DOWN YOUR STEPS.
+
+It's a positive number, so sign bit = 0
+
+Let's represent 3.5 in binary. We know 3 is 11 in binary, and 0.5 is 0.1 in binary. So, 3.5 = 11.1
+
+11.1 = 1.11 * 2^1
+So the exponent is 1, and with a bias of 127, the exponent is 1+127=128
+In binary, 128 = 10000000, so that's our exponent
+
+In the number "1.11", after the decimal we have 11 followed by nothing, so we fill up the mantissa with that followed by 0s.
+
+FINAL ASNWER:
+0[10000000]11000000000000000000000
+
+2.3
+What is 3.2 (in decimal) represented as in IEEE-754? EXPLAIN YOUR ANSWER, BREAK DOWN YOUR STEPS.
+
+It's a positive number, so sign bit = 0
+
+Let's represent 3.2 in binary. We know 3 is 11 in binary, and 0.2 is ... we use the multiply by 2 method (see video linked at the top of this file) and see that 0.2 is 0.001100110011...
+
+So, 3.2 = 11.001100110011... = 1.100110011001... * 2^1
+So the exponent is 1, and with a bias of 127, the exponent is 1+127=128
+In binary, 128 = 10000000, so that's our exponent
+
+After the decimal we have 1001 repeated forever, so we fill up the mantissa to 23 bits.
+We end up with 100 at the end, with the next few digits being 110
+
+This is case 2 from the rounding cases, so we round up
+https://axiom.utm.utoronto.ca/~207/20f/slides/11/round_to_even_notes.txt
+
+0[10000000]10011001100110011001100
+rounded up is --
+FINAL ANSWER:
+0[10000000]10011001100110011001101
+
