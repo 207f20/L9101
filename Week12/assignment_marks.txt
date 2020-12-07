@@ -1,0 +1,23 @@
+992123949 Smith, Sid
+    # Sid had a rough start
+    Assignments: 
+        1:23/50 
+        2: 33/50 
+        3: 45/45
+    END MARKS
+123456789 Doe, Jane Joe Simantha
+    # Jane missed assignment 3
+    # Jane may have dropped the course
+    Assignments: 
+        1: 45/50 
+        2: 49/50 
+        4: 75/100
+    END MARKS
+999999999        White   ,   Jill    Middle
+    Assignments: 
+        1: 50/50 
+        2: 49/50 
+        3: 45/45
+        4: 80/100
+        10:55/100
+    END MARKS

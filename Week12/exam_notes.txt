@@ -1,0 +1,55 @@
+---------------------------------------------------
+CSC207 Lecture 12
+---------------------------------------------------
+
+Final Exam Logistics
+
+You can see our exam date+time here: https://student.utm.utoronto.ca/examschedule/finalexams.php
+
+- The exam will be written as a timed quiz on Quercus, just like the term tests
+- More information about exam structure will be posted on Piazza by the end of this week
+
+- Students are expected to write their final exams at the times they are posted.
+- If you have issues with their exam time, please use this form:
+https://student.utm.utoronto.ca/examconflict/index.php
+(they have a new Time Zone Conflict category)
+
+- F.Y.I. Deferred exams will be held February 16th-19th, 2021 at 9:00 am (only) each day.
+
+
+---------------------------------------------------
+
+Pre-Exam Office Hours
+- Dec 9th: Your usual Wednesday PRA section times
+- Dec 11th: Kevin's Thursday 9-11 PRA has been moved to Friday Dec 11th, 11am-12pm
+- Dec 14th: Sadia from 1pm-3:00pm
+- Dec 18th: Larry from 1pm-3:00pm
+
+All of this is on Piazza.
+
+---------------------------------------------------
+
+Final Exam Review Tips
+
+What to study?
+
+All the things you practiced in this course, i.e., assignments, lectures.
+􏰀- Java classes/objects, inheritance, interfaces
+􏰀- GIT basics, using branches (checkout, merging, etc.) (know the command line git commands)
+􏰀- GUI
+􏰀- MVC, Design Patterns (singleton, observer, iterator, composite, command, strategy, factory, builder)
+􏰀- Scrum
+􏰀- File Parsing (using FSM), Regular Expressions
+􏰀- Floating Point (IEEE-754 Representations)
+􏰀- Everything else
+
+
+Other things:
+- Past exams: can be found in the Old Exam Repository at UofT library
+	- Practice by simulating the exam environment (pen and paper, time yourself, no aid)
+- Everything else
+
+---------------------------------------------------
+USE THE OFFICE HOURS!!!
+---------------------------------------------------
+
