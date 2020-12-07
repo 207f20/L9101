@@ -25,7 +25,7 @@ Pre-Exam Office Hours
 - Dec 14th: Sadia from 1pm-3:00pm
 - Dec 18th: Larry from 1pm-3:00pm
 
-All of this is on Piazza.
+All of this will be on Piazza.
 
 ---------------------------------------------------
 
@@ -46,7 +46,7 @@ All the things you practiced in this course, i.e., assignments, lectures.
 
 Other things:
 - Past exams: can be found in the Old Exam Repository at UofT library
-	- Practice by simulating the exam environment (pen and paper, time yourself, no aid)
+	- Practice by simulating the exam environment (time yourself)
 - Everything else
 
 ---------------------------------------------------
